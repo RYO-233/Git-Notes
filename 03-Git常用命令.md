@@ -23,40 +23,40 @@
 >
 > ​	**※注意：**这里设置用户签名和将来登录 GitHub（或Gitee）的账号没有任何关系。
 
-![git-demo1](D:\Tools\Typora\image\git-demo1.png)
+![git-demo1](.\image\git-demo1.png)
 
 ## 初始化本地库
 
 进入到项目的目录下，通过鼠标右键进入到 Git 中，使用命令。
 
-<img src="D:\Tools\Typora\image\git-demo2.png" alt="git-demo2"  />
+<img src=".\image\git-demo2.png" alt="git-demo2"  />
 
 ## 查看本地库状态
 
-![git-demo3](D:\Tools\Typora\image\git-demo3.png)
+![git-demo3](.\image\git-demo3.png)
 
 ​					 之后若在项目文件夹中添加了文件，则如下显示：
 
-![git-demo4](D:\Tools\Typora\image\git-demo4.png)
+![git-demo4](.\image\git-demo4.png)
 
 ​				 	之后添加至暂存区时：
 
-![git-demo6](D:\Tools\Typora\image\git-demo6.png)
+![git-demo6](.\image\git-demo6.png)
 
 ## 添加文件到暂存区
 
-![git-demo5](D:\Tools\Typora\image\git-demo5.png)
+![git-demo5](.\image\git-demo5.png)
 
 ## 提交到本地库
 
-![git-demo7](D:\Tools\Typora\image\git-demo7.png)
+![git-demo7](.\image\git-demo7.png)
 
-![git-demo8](D:\Tools\Typora\image\git-demo8.png)
+![git-demo8](.\image\git-demo8.png)
 
 ## 修改文件
 
-![git-demo9](D:\Tools\Typora\image\git-demo9.png)
+![git-demo9](.\image\git-demo9.png)
 
 ## 版本穿梭
 
-![git-demo10](D:\Tools\Typora\image\git-demo10.png)
+![git-demo10](.\image\git-demo10.png)

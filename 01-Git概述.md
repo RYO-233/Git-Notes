@@ -41,11 +41,11 @@
 
 ## Git历史
 
-![img1](D:\Tools\Typora\image\Git_history.png)
+![img1](.\image\Git_history.png)
 
 ## Git工作机制
 
-![Git_history](D:\Tools\Typora\image\Git_history.png)
+![Git_history](.\image\Git_history.png)
 
 ## Git代码托管中心
 

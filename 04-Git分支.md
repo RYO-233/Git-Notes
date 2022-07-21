@@ -2,7 +2,7 @@
 
 # 分支
 
-![git-branch](D:\Tools\Typora\image\git-branch.png)
+![git-branch](.\image\git-branch.png)
 
 ## 什么是分支？
 
@@ -10,7 +10,7 @@
 > 使用分支意味着程序员可以把自己的工作从开发主线上分离开来，开发自己分支的时候，不会影响主线分支的运行。
 > 对于初学者而言，分支可以简单理解为副本，一个分支就是一个单独的副本。（分支底层其实也是指针的引用）
 
-<img src="D:\Tools\Typora\image\git-branch2.png" alt="git-branch2" style="zoom:80%;" />
+<img src=".\image\git-branch2.png" alt="git-branch2" style="zoom:80%;" />
 
 ## 分支的优点
 
